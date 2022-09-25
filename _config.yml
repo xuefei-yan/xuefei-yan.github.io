@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "王成军"
-  avatar           : "profile.png"
+  avatar           : "chengjun.jpeg"
   bio              : "博士，副教授"
   location         : "南京"
   employer         : "南京大学"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term"
   googlescholar    : "https://scholar.google.co.uk/citations?user=nNdt_G8AAAAJ"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Cheng_Jun_Wang"
