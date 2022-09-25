@@ -85,7 +85,7 @@ author:
   bio              : "博士，副教授"
   location         : # ""
   employer         : "南京大学"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term"
   googlescholar    : "https://scholar.google.co.uk/citations?user=nNdt_G8AAAAJ"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Cheng_Jun_Wang"
