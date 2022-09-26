@@ -13,5 +13,5 @@ A Github Pages template for academic websites. This was forked (then detached) b
 1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
 
 See more info at https://academicpages.github.io/
-
+- Revise Static Markdown Pages https://github.com/chengjun/zh/tree/gh-pages/_pages
 - Set Navigation https://github.com/chengjun/zh/blob/gh-pages/_data/navigation.yml
