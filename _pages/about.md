@@ -40,12 +40,7 @@ redirect_from:
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=xorLRfA9WXTeIBpZiDJaNz_VyfaXaGGoKDZIUmjqqu8"></script>
 
 
-<br>
 
-<html xmlns:wb="//open.weibo.com/wb">
-<script src="//tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script>
-
-<wb:show uid="5694690999" width="850" height = "1000" verifier="6f31e019"></wb:show>
   
 <br>
   
@@ -54,4 +49,9 @@ redirect_from:
 
 ✏️ [Edit this page](https://github.com/chengjun/zh/edit/gh-pages/_pages/about.md)
 
+<br>
 
+<html xmlns:wb="//open.weibo.com/wb">
+<script src="//tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script>
+
+<wb:show uid="5694690999" width="850" height = "1000" verifier="6f31e019"></wb:show>
