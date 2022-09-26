@@ -15,9 +15,9 @@ author_profile: true
 - 慕课课程 [数字营销](https://www.icourse163.org/course/20201232-1462060162) (2020-Now)
 
 ## 往期课程
-- Undergraduate Course [Data Journalism](https://github.com/data-journalism/data-journalism.github.io/discussions) (2015-2022)
-- Undergraduate Course [Python Programming Basics For Data Science](https://github.com/socratesacademy/datascience/) (2017-2019)
-- FDU Graduate Course [Introduction to Computational Communication](https://github.com/computational-class/cjc/) (2015-2021)
+- 本科课程 [数据新闻](https://github.com/data-journalism/data-journalism.github.io/discussions) (2015-2022)
+- 本科课程 [数据科学Python编程基础](https://github.com/socratesacademy/datascience/) (2017-2019)
+- 复旦大学硕士课程 [计算新闻传播学](https://github.com/computational-class/cjc/) (2015-2021)
 
 ## 未来课程
 
