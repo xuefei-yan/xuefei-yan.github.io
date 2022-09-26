@@ -35,7 +35,7 @@ author_profile: true
 ## 计算传播学网络讲义
 
 
-**计算传播学网络讲义**上线了! https://chengjun.github.io/mybook.
+**计算传播学网络讲义**[上线了!](https://chengjun.github.io/mybook) 
 
 ## 第谷读书会
 
