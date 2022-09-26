@@ -47,6 +47,11 @@ redirect_from:
 ![image](https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png)
 
 
+<html xmlns:wb="//open.weibo.com/wb">
+<script src="//tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script>
+
+<wb:show uid="5694690999" width="850" verifier="6f31e019"></wb:show>
+
 ✏️ [Edit this page](https://github.com/chengjun/zh/edit/gh-pages/_pages/about.md)
 
 
