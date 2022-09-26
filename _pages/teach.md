@@ -31,6 +31,15 @@ author_profile: true
 
 ## 课程讲义
 
+![image](https://user-images.githubusercontent.com/543384/192228622-773f55fe-6379-40fa-9585-cb1df525322b.png)
+
 
 *计算传播学网络讲义*[上线了!](https://chengjun.github.io/mybook) 
+
+<br>
+
+![image](https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png)
+
+
+✏️ [Edit this page](https://github.com/chengjun/zh/edit/gh-pages/_pages/teach.md)
 
