@@ -8,8 +8,12 @@ author_profile: true
 
 {% include base_path %}
 
+## 编委会
+
 - 加入[Humanities & Social Sciences Communications](https://www.nature.com/palcomms/)的编委会(Editorial Board，2022年9月-至今).
 - 担任《中国网络传播研究》编辑部主任 (2020年1月-至今).
+
+## 期刊审稿
 
 担任以下期刊的审稿人
 
@@ -36,3 +40,26 @@ author_profile: true
 - 《新闻大学》
 - 《新闻记者》
 - 《傳播與社會學刊》
+
+## 第谷读书会
+
+为了讨论关于计算社会科学，我们每周三下午一点钟（北京时间）在*新咖啡*组织了[**第谷读书会**](https://search.bilibili.com/all?keyword=%E7%AC%AC%E8%B0%B7%E8%AF%BB%E4%B9%A6%E4%BC%9A&order=pubdate&duration=0&tids_1=0) 
+
+你可以通过扫描二维码的方式了解我们正在进行的活动，或者观看往期活动的[视频](https://search.bilibili.com/all?keyword=%E7%AC%AC%E8%B0%B7%E8%AF%BB%E4%B9%A6%E4%BC%9A&order=pubdate&duration=0&tids_1=0)。 
+
+![image](https://user-images.githubusercontent.com/543384/147380016-da65a625-6480-47f4-8e27-5034d696f553.png)
+
+##  苏格拉底学园
+
+![image](https://user-images.githubusercontent.com/543384/192223631-4a53ccfa-3652-4e88-bb7a-74ba51b35171.png)
+
+
+1. **群体动力学播客**[上线了!](https://www.ximalaya.com/album/69292192) 
+2. “计算传播学”[豆瓣小组](https://www.douban.com/group/webmining/)
+3. 苏格拉底学园[豆瓣小组](https://www.douban.com/group/733982/)
+4. 苏格拉底[实验室](https://chengjun.github.io/socrateslab/)
+
+
+
+
+
