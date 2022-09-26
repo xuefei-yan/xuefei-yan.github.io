@@ -38,3 +38,11 @@ redirect_from:
 4. [**计算传播学讲义**](https://chengjun.github.io/mybook/) 网络版上线! 
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=xorLRfA9WXTeIBpZiDJaNz_VyfaXaGGoKDZIUmjqqu8"></script>
+
+<br>
+
+![image](https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png)
+
+
+✏️ [Edit this page](https://github.com/chengjun/zh/edit/gh-pages/_pages/teach.md)
+
