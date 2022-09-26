@@ -15,3 +15,9 @@ author_profile: true
 6. 国家社会科学基金青年项目, 15CXW017, 媒体融合背景下舆论形成与扩散的网络门槛研究，2015/07-2018/12, 20万元，主持
 7. 中国博士后科学基金面上项目（第57批), 找回失落的参考群体:对“沉默的螺旋”进行多主体建模 (￥50000, 2015M571722)，2015/01-2018/01, 5万元，主持
 
+<br>
+
+![image](https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png)
+
+
+✏️ [Edit this page](https://github.com/chengjun/zh/edit/gh-pages/_pages/teach.md)
