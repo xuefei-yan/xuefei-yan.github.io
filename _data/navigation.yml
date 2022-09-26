@@ -3,17 +3,20 @@ main:
   - title: "著作"
     url: /publications/
 
-  - title: "演讲"
-    url: /talks/    
+  # - title: "演讲"
+    # url: /talks/    
 
   - title: "教学"
     url: /teaching/    
     
   - title: "项目"
-    url: /portfolio/
+    url: /project/
+  
+  - title: "服务"
+    url: /service/
         
-  - title: "博客"
-    url: /year-archive/
+  # - title: "博客"
+    # url: /year-archive/
     
   - title: "简历"
     url: /cv/
