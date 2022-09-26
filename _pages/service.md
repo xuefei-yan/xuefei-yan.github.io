@@ -59,6 +59,12 @@ author_profile: true
 3. 苏格拉底学园[豆瓣小组](https://www.douban.com/group/733982/)
 4. 苏格拉底[实验室](https://chengjun.github.io/socrateslab/)
 
+<br>
+
+![image](https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png)
+
+
+✏️ [Edit this page](https://github.com/chengjun/zh/edit/gh-pages/_pages/teach.md)
 
 
 
