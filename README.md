@@ -14,4 +14,4 @@ A Github Pages template for academic websites. This was forked (then detached) b
 
 See more info at https://academicpages.github.io/
 
-- https://github.com/chengjun/zh/blob/gh-pages/_data/navigation.yml
+- Set Navigation https://github.com/chengjun/zh/blob/gh-pages/_data/navigation.yml
