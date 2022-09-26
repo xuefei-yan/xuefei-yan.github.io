@@ -212,5 +212,11 @@ My professional affiliations include:
 1. [networkdiffusion](https://github.com/chengjun/networkdiffusion), a R package which can help simulate and visualize the network diffusion.
 
 
-<img width="961" alt="image" src="https://user-images.githubusercontent.com/543384/185576901-cd007dc4-92d9-46b7-824e-316c0de22ff3.png">
+<br>
+
+![image](https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png)
+
+
+✏️ [Edit this page](https://github.com/chengjun/zh/edit/gh-pages/_pages/teach.md)
+
 
