@@ -49,3 +49,12 @@ redirect_from:
 
 ✏️ [Edit this page](https://github.com/chengjun/zh/edit/gh-pages/_pages/about.md)
 
+
+<div id="weiboshow">
+<script type="text/javascript">
+var weibocode = '<if'
+weibocode += 'rame width="100%" height="550" class="share_self"  frameborder="0" scrolling="no" src="//widget.weibo.com/weiboshow/index.php?language=&width=0&height=550&fansRow=2&ptype=1&speed=0&skin=1&isTitle=1&noborder=1&isWeibo=1&isFans=1&uid=5694690999&verifier=6f31e019&dpc=1"></iframe>';
+document.getElementById('weiboshow').innerHTML = weibocode;
+</script>
+</div>
+
