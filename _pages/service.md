@@ -54,8 +54,8 @@ author_profile: true
 ![image](https://user-images.githubusercontent.com/543384/192223631-4a53ccfa-3652-4e88-bb7a-74ba51b35171.png)
 
 
-1. **群体动力学播客**[上线了!](https://www.ximalaya.com/album/69292192) 
-2. “计算传播学”[豆瓣小组](https://www.douban.com/group/webmining/)
+1. 群体动力学播客[上线了!](https://www.ximalaya.com/album/69292192) 
+2. 计算传播学[豆瓣小组](https://www.douban.com/group/webmining/)
 3. 苏格拉底学园[豆瓣小组](https://www.douban.com/group/733982/)
 4. 苏格拉底[实验室](https://chengjun.github.io/socrateslab/)
 
