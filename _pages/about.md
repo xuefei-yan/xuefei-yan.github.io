@@ -39,6 +39,8 @@ redirect_from:
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=xorLRfA9WXTeIBpZiDJaNz_VyfaXaGGoKDZIUmjqqu8"></script>
 
+<iframe width="100%" height="550" class="share_self"  frameborder="0" scrolling="no" src="http://widget.weibo.com/weiboshow/index.php?language=&width=0&height=550&fansRow=2&ptype=1&speed=0&skin=1&isTitle=1&noborder=1&isWeibo=1&isFans=1&uid=5694690999&verifier=6f31e019&dpc=1"></iframe>
+
 <br>
 
 ![image](https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png)
