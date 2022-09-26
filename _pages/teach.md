@@ -30,7 +30,7 @@ author_profile: true
 
 我读完了[「原因と結果」の経済学―――データから真実を見抜く思考法](https://www.amazon.co.jp/%E3%80%8C%E5%8E%9F%E5%9B%A0%E3%81%A8%E7%B5%90%E6%9E%9C%E3%80%8D%E3%81%AE%E7%B5%8C%E6%B8%88%E5%AD%A6%E2%80%95%E2%80%95%E2%80%95%E3%83%87%E3%83%BC%E3%82%BF%E3%81%8B%E3%82%89%E7%9C%9F%E5%AE%9F%E3%82%92%E8%A6%8B%E6%8A%9C%E3%81%8F%E6%80%9D%E8%80%83%E6%B3%95-%E4%B8%AD%E5%AE%A4%E7%89%A7%E5%AD%90/dp/447803947X)。
 
-本书可以用来开设因果推断101课程。我同样制作了[Slides](https://nbviewer.org/format/slides/github/socrateslab/causal101/blob/main/causal101.ipynb#/)和[Jupyter Notebook](https://nbviewer.org/github/socrateslab/causal101/blob/main/causal101.ipynb). 
+本书可以用来开设*因果推断101*课程。我同样制作了[Slides](https://nbviewer.org/format/slides/github/socrateslab/causal101/blob/main/causal101.ipynb#/)和[Jupyter Notebook](https://nbviewer.org/github/socrateslab/causal101/blob/main/causal101.ipynb). 
 
 ## 计算传播学网络讲义
 
