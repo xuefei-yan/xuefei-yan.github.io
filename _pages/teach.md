@@ -37,10 +37,3 @@ author_profile: true
 
 **计算传播学网络讲义**[上线了!](https://chengjun.github.io/mybook) 
 
-## 第谷读书会
-
-为了讨论关于计算社会科学，我们每周三下午一点钟（北京时间）在*新咖啡*组织了[**第谷读书会**](https://search.bilibili.com/all?keyword=%E7%AC%AC%E8%B0%B7%E8%AF%BB%E4%B9%A6%E4%BC%9A&order=pubdate&duration=0&tids_1=0) 
-
-你可以通过扫描二维码的方式了解我们正在进行的活动，或者观看往期活动的[视频](https://search.bilibili.com/all?keyword=%E7%AC%AC%E8%B0%B7%E8%AF%BB%E4%B9%A6%E4%BC%9A&order=pubdate&duration=0&tids_1=0)。 
-
-![image](https://user-images.githubusercontent.com/543384/147380016-da65a625-6480-47f4-8e27-5034d696f553.png)
