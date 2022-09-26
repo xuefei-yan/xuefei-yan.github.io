@@ -10,8 +10,9 @@ author_profile: true
 
 ## 编委会
 
-- 加入[Humanities & Social Sciences Communications](https://www.nature.com/palcomms/)的编委会(Editorial Board，2022年9月-至今).
-- 担任《中国网络传播研究》编辑部主任 (2020年1月-至今).
+- 加入[Humanities & Social Sciences Communications](https://www.nature.com/palcomms/)的编委会(Editorial Board，2022年9月-至今)
+- 加入了Frontiers in Physics期刊的Social Physics部分的编委会（Editorial Board of Social Physics within the journal Frontiers in Physics)，担任[评审编辑](https://www.frontiersin.org/journals/physics/sections/social-physics)（Review Editor），2022年8月-至今)
+- 担任《中国网络传播研究》编辑部主任 (2020年1月-至今)
 
 ## 期刊审稿
 
