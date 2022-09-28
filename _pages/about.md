@@ -52,6 +52,6 @@ redirect_from:
 <br>
 
 <html xmlns:wb="//open.weibo.com/wb">
-<script src="//tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script>
+<script src="//tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8" height="1200" ></script>
 
-<wb:show uid="5694690999" width="850" height = "1500" verifier="6f31e019"></wb:show>
+<wb:show uid="5694690999" width="850" verifier="6f31e019"></wb:show>
