@@ -9,10 +9,10 @@ author_profile: true
 
 
 
-- 博士课程 [计算传播研究工作坊](https://github.com/socrateslab/workshop/) (2020-Now)
-- 硕士课程 [计算传播学导论](https://github.com/chengjun/mybook/discussions) (2018-Now)
-- 本科课程 [计算社会科学](https://github.com/SocratesAcademy/css/) (2020-Now)
-- 慕课课程 [数字营销](https://www.icourse163.org/course/20201232-1462060162) (2020-Now)
+- 博士课程 [计算传播研究工作坊](https://github.com/socrateslab/workshop/) (2020-现在)
+- 硕士课程 [计算传播学导论](https://github.com/chengjun/mybook/discussions) (2018-现在)
+- 本科课程 [计算社会科学](https://github.com/SocratesAcademy/css/) (2020-现在)
+- 慕课课程 [数字营销](https://www.icourse163.org/course/20201232-1462060162) (2020-现在)
 
 ## 往期课程
 - 本科课程 [数据新闻](https://github.com/data-journalism/data-journalism.github.io/discussions) (2015-2022)
