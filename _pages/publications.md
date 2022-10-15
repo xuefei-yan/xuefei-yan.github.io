@@ -66,6 +66,9 @@ author_profile: true
 3. 张伦、王成军、许小可（2018）[《计算传播学导论》](https://github.com/socratesacademy/ccrbook). 北京：北京师范大学出版社.
 4. 许小可、胡海波、张伦、王成军 （2015）《社交网络上的计算传播学》. 北京：高等教育出版社.
 
+<img src="https://user-images.githubusercontent.com/543384/195964017-43b9085d-2f13-4f89-9025-61faa1717c70.png" align = "middle" width = "300px">
+
+
 我正在筹备写作《**计算叙事**》一书，欢迎关注[本书的Github讨论](https://github.com/chengjun/storybook/discussions)！
 
 ## 章节
