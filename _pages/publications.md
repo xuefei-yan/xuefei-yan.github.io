@@ -70,6 +70,8 @@ author_profile: true
 
 
 我正在筹备写作《**计算叙事**》一书，欢迎关注[本书的Github讨论](https://github.com/chengjun/storybook/discussions)！
+- 计传岛微信公众号推文[《岛友说 | 王成军：人工智能时代的计算叙事研究》](https://mp.weixin.qq.com/s/YRXD0TQVJKyNeYN9rbUpmg)
+
 
 ## 章节
 1. 王成军 (2022) [沉默的螺旋：多主体模型](https://github.com/socrateslab/sos).周葆华（编）《大数据时代的计算舆论学：理论、方法与案例》.上海：复旦大学出版社. pp. 384-417.
