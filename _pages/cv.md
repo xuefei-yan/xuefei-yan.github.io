@@ -197,6 +197,7 @@ My professional affiliations include:
 
 
 # 获奖
+1. 2022年度“南京大学育教融合奖” (2022年10月）
 1. Best paper Award of Asian Symposium of Doctoral Students in Communication (ASDSC), City university of Hong Kong, Hong Kong (Nov, 2013)
 1. Best paper Award of 3rd Honours Symposium for Asian Ph.D Students in Communication Research, Yonsei university, Seoul, Korea (Oct, 2012)
 1. Research Tuition Scholarship (RTS, Oct, 2012- Aug, 2013)
