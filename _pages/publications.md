@@ -66,6 +66,8 @@ author_profile: true
 3. 张伦、王成军、许小可（2018）[《计算传播学导论》](https://github.com/socratesacademy/ccrbook). 北京：北京师范大学出版社.
 4. 许小可、胡海波、张伦、王成军 （2015）《社交网络上的计算传播学》. 北京：高等教育出版社.
 
+我正在筹备写作《**计算叙事**》一书，欢迎关注[本书的Github讨论](https://github.com/chengjun/storybook/discussions)！
+
 ## 章节
 1. 王成军 (2022) [沉默的螺旋：多主体模型](https://github.com/socrateslab/sos).周葆华（编）《大数据时代的计算舆论学：理论、方法与案例》.上海：复旦大学出版社. pp. 384-417.
 2. 張倫、彭泰權、**王成軍**、梁海、祝建華 (2021) [從邊陲到主流的自然路徑：華人計算傳播學者的參與和體驗](https://computational-communication.com/blog/2021/11/01/ccr-history/). 《中華傳播研究的傳承與創新》.李立峯、黃煜(主編).香港：香港中文大学出版社.pp. 399-419.
