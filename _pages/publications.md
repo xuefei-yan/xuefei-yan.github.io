@@ -70,7 +70,7 @@ author_profile: true
 
 
 我正在筹备写作《**计算叙事**》一书，欢迎关注[本书的Github讨论](https://github.com/chengjun/storybook/discussions)！
-- 计传岛微信公众号推文[《岛友说 | 王成军：人工智能时代的计算叙事研究》](https://mp.weixin.qq.com/s/YRXD0TQVJKyNeYN9rbUpmg)
+- 计传岛微信公众号推文[《岛友说 王成军：人工智能时代的计算叙事研究》](https://mp.weixin.qq.com/s/YRXD0TQVJKyNeYN9rbUpmg)
 
 
 ## 章节
