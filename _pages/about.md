@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-<img src="https://user-images.githubusercontent.com/543384/195545866-71300350-477d-4b71-85d0-29dfb948a68e.jpg" align = "middle" width = "400px">
+<img src="https://user-images.githubusercontent.com/543384/196108808-551d9bd5-49d4-403c-944c-7935b39e3654.png" align = "middle" width = "400px">
 
 
 王成军，传播学博士。现任南京大学新闻传播学院副教授、博士生导师，计算传播学实验中心主任。他致力于采用计算社会科学视角研究人类传播行为，包括信息扩散、注意力流动和计算叙事。著作《跨越网络的门槛：社交媒体上的信息扩散》（2022）；合著《计算传播学导论》(2018)、《社交网络上的计算传播学》(2015)。
