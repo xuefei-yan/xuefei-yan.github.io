@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /en/
 title: "English Page"
 excerpt: "About me"
 author_profile: true
