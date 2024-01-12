@@ -25,12 +25,12 @@ redirect_from:
   
 **教学助理**
 - 计算传播导论，博士研究生课程，南京大学，2022
-- 社会科学汇总的因果推断，硕士研究生课程，南京大学，2023
+- 社会科学中的因果推断，硕士研究生课程，南京大学，2023
 
 ## 苏格拉底学园
  
 1. **群体动力学播客**已经[上线了!](https://www.ximalaya.com/album/69292192) 
-2. 我正在组织一个名为 “计算传播学”的[豆瓣小组](https://www.douban.com/group/webmining/).
+2. 我正在组织一个名为 “计算传播学”的[豆瓣小组](https://www.douban.com/group/webmining/)。
 3. 苏格拉底学园[豆瓣小组](https://www.douban.com/group/733982/)上线了！
 
 
