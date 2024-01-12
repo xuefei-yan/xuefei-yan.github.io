@@ -12,24 +12,18 @@ author_profile: true
 **Xue-Fei Yan** serves as a college lecturer in the Department of Communication. She is currently a second-year Ph.D. student in the [School of Journalism and Communication](https://jc.nju.edu.cn/), Nanjing University, under the supervision of Dr. Cheng-Jun Wang. She is also a member of [Computational Communication Collaboratory](https://computational-communication.com/) and the [Socrates Lab](https://github.com/socrateslab/). Her research interests include computational social science, time use research, computational narrative and causal inference. Her research has appeared in outlets such as the _Chinese Journal of Communication_.
 
 
-# Contact Information
-- Address: Computational Communication Collaboratory, School of Journalism and Communication, Nanjing University (Xianlin Campus), 163 Xianlin Road, Qixia District, Nanjing, Jiangsu, China (210023).
-- Email: sophiedududu@163.com
-- Website: [https://xuefei-yan.com](https://xuefei-yan.github.io/en/)
-- ORCID: [0000-0002-3799-7786](http://orcid.org/0000-0002-3799-7786)
-
 # Education
-**Nanjing University**
-- Ph.D. student in Computational Communication; Advisor: Dr. Cheng-Jun Wang 
+**Nanjing University** 2022-now
+- Ph.D. student in Computational Communication; Supervisor: Dr. Cheng-Jun Wang
+**Nanjing University** 2014-2017
+- M.A. in Communication; Supervisor: Prof. Junfei Du
+**Nankai University** 2010-2014
+- B.A. in Radio and Television Journalism (graduated with honors)
+**Keimyung University** 2013
+- Exchange student in Broadcasting and Television
 
-- Ph.D, City University of Hong Kong, Hong Kong. Department of Media and Communication (September, 2010-November, 2014).
-  - Dissertation: Jumping over Network Threshold: Information Diffusion on Information Sharing Websites ([pdf](http://lbms03.cityu.edu.hk/theses/c_ftt/phd-com-b46934285f.pdf)). Supervised by Jonathan J.H. Zhu
-- M.A., Peking University, Beijing, China. Department of Journalism and Communication (September, 2008-June, 2010).
-- B.A., Lanzhou University, Lanzhou, China. Department of Journalism and Communication (September, 2006-June, 2008).
-- Academic Visiting, Australia National University,Canberra, Australia. Australian Demographic & Social Research Institute.
-  - Supervised by Robert Ackland. (February-June, 2012).
 
-# Professional Experience
+# Teaching Experience
 - Associate Professor, School of Journalism and Communication, Nanjing University (December 2017-Present).
 - Director, **Socrates Lab**, Computational Communication Collaboratory, Nanjing University (January 2015-Present).
 - Assistant Research Fellow, School of Journalism and Communication, Nanjing University (November 2014-July 2017).
@@ -219,6 +213,14 @@ My professional affiliations include:
 
 
  {{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+
+# Contact Me
+<img width="801" alt="截屏2024-01-12 22 42 00" src="https://github.com/xuefei-yan/xuefei-yan.github.io/assets/104076088/f8cef18e-b23b-4908-bbd8-425c403bd6b5">
+
+- **Address**: School of Journalism and Communication, Nanjing University (Xianlin Campus), Nanjing, Jiangsu Province(210023).
+- **Email**: [sophiedududu@163.com](mailto:sophiedududu@163.com) 
+- **Website**: [https://xuefei-yan.com](https://xuefei-yan.github.io/en/)
 
 
 <img width="961" alt="image" src="https://user-images.githubusercontent.com/543384/185576901-cd007dc4-92d9-46b7-824e-316c0de22ff3.png">
