@@ -13,14 +13,15 @@ author_profile: true
 
 
 # Contact Information
-- Computational Communication Collaboratory, School of Journalism and Communication, Nanjing University.
-- 307 Zijin Building, Nanjing University (Xianlin Campus), 163 Xianlin Road, Qixia District, Nanjing, Jiangsu, China (210023).
+- Address: Computational Communication Collaboratory, School of Journalism and Communication, Nanjing University (Xianlin Campus), 163 Xianlin Road, Qixia District, Nanjing, Jiangsu, China (210023).
 - Email: sophiedududu@163.com
 - Website: [https://xuefei-yan.com](https://xuefei-yan.github.io/en/)
 - ORCID: [0000-0002-3799-7786](http://orcid.org/0000-0002-3799-7786)
 
 # Education
--
+**Nanjing University**
+- Ph.D. student in Computational Communication; Advisor: Dr. Cheng-Jun Wang 
+
 - Ph.D, City University of Hong Kong, Hong Kong. Department of Media and Communication (September, 2010-November, 2014).
   - Dissertation: Jumping over Network Threshold: Information Diffusion on Information Sharing Websites ([pdf](http://lbms03.cityu.edu.hk/theses/c_ftt/phd-com-b46934285f.pdf)). Supervised by Jonathan J.H. Zhu
 - M.A., Peking University, Beijing, China. Department of Journalism and Communication (September, 2008-June, 2010).
