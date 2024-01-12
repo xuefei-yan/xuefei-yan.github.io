@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "晏雪菲"
+title                    : "晏雪菲 Xue-Fei Yan"
 title_separator          : "-"
 name                     : "中文网站"
 description              : "To be great, not to look great!"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "晏雪菲"
+  name             : "晏雪菲 Xue-Fei Yan"
   avatar           : "xuefei.jpeg"
-  bio              : "博士在读，讲师"
+  bio              : "博士在读 Doctoral Student"
   location         : # ""
-  employer         : "南京大学"
+  employer         : "Nanjing University"
   pubmed           : 
   googlescholar    : 
   email            : "sophiedududu@163.com"
