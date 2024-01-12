@@ -1,6 +1,6 @@
----
+![image](https://github.com/xuefei-yan/xuefei-yan.github.io/assets/104076088/0ccac332-fb7f-4155-862e-70175afe06f7)---
 permalink: /en/
-title: "Cheng-Jun Wang"
+title: "Xue-Fei Yan"
 excerpt: "About me"
 author_profile: true
 ---
@@ -10,18 +10,18 @@ author_profile: true
 <!--<img align="middle" src="/img/headers/hero.svg" width = 800px/>-->
 
 
-
-Cheng-Jun Wang is currently an associate professor in the [School of Journalism and Communication](https://jc.nju.edu.cn/), Nanjing University. He is also the director of [Computational Communication Collaboratory](https://computational-communication.com/). He is leading the [Socrates Lab](https://github.com/socrateslab/) which is a small team composed of doctoral, master, and undergraduate students who are keen on computational social science. His research on computational communication appears in both SSCI and SCI indexed journals, such as Internet Research, Cyberpsychology, Telematics and Informatics, Scientific Reports, PloS ONE, and Physica A.
+**Xue-Fei Yan** serves as a college lecturer in the Department of Communication. She is currently a second-year Ph.D. student in the [School of Journalism and Communication](https://jc.nju.edu.cn/), Nanjing University, under the supervision of Dr. Cheng-Jun Wang. She is also a member of [Computational Communication Collaboratory](https://computational-communication.com/) and the [Socrates Lab](https://github.com/socrateslab/). Her research interests include computational social science, time use research, computational narrative and causal inference. Her research has appeared in outlets such as the _Chinese Journal of Communication_.
 
 
 # Contact Information
 - Computational Communication Collaboratory, School of Journalism and Communication, Nanjing University.
 - 307 Zijin Building, Nanjing University (Xianlin Campus), 163 Xianlin Road, Qixia District, Nanjing, Jiangsu, China (210023).
-- Email: wangchj04 at 126.com
-- Website: [https://chengjunwang.com/](https://chengjunwang.com/)
-- ORCID: [0000-0002-9507-2888](http://orcid.org/0000-0002-9507-2888)
+- Email: sophiedududu@163.com
+- Website: [https://xuefei-yan.com](https://xuefei-yan.github.io/en/)
+- ORCID: [0000-0002-3799-7786](http://orcid.org/0000-0002-3799-7786)
 
 # Education
+-
 - Ph.D, City University of Hong Kong, Hong Kong. Department of Media and Communication (September, 2010-November, 2014).
   - Dissertation: Jumping over Network Threshold: Information Diffusion on Information Sharing Websites ([pdf](http://lbms03.cityu.edu.hk/theses/c_ftt/phd-com-b46934285f.pdf)). Supervised by Jonathan J.H. Zhu
 - M.A., Peking University, Beijing, China. Department of Journalism and Communication (September, 2008-June, 2010).
@@ -223,7 +223,7 @@ My professional affiliations include:
 
 <img width="961" alt="image" src="https://user-images.githubusercontent.com/543384/185576901-cd007dc4-92d9-46b7-824e-316c0de22ff3.png">
 
-✏️ [Edit this page](https://github.com/SocratesClub/SocratesClub.github.io/edit/gh-pages/_pages/en.md)
+✏️ [Edit this page](https://github.com/xuefei-yan/xuefei-yan.github.io/edit/gh-pages/_pages/en.md)
 
 <!--<img align="middle" src="/img/undraw_news.svg" width = 400px/>-->
 
