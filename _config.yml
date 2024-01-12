@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : ChengJunWang
+  username               : Xuefei Yan
 facebook:
   username               :
   app_id                 :
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "王成军"
-  avatar           : "chengjun.jpeg"
-  bio              : "博士，副教授"
+  name             : "晏雪菲"
+  avatar           : "xuefei.jpeg"
+  bio              : "博士在读，讲师"
   location         : # ""
   employer         : "南京大学"
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term"
-  googlescholar    : "https://scholar.google.co.uk/citations?user=nNdt_G8AAAAJ"
+  pubmed           : 
+  googlescholar    : 
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Cheng_Jun_Wang"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,22 +96,22 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "chengjun"
+  github           : "xuefei-yan"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0002-9507-2888"
+  orcid            : "http://orcid.org/0000-0002-3799-7786"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ChengJunWang"
+  twitter          : "YanXueFei"
   vine             :
-  weibo            : "u/5694690999"
+  weibo            : 
   xing             :
   youtube          :
   wikipedia        :
