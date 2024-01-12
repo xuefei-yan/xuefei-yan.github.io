@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "晏雪菲"
 title_separator          : "-"
 name                     : "中文网站"
-description              : "教育是点燃火焰"
+description              : "To be great, not to look great!"
 url                      : https://xuefei-yan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xuefei-yan/xuefei-yan.github.io/"
@@ -87,14 +87,14 @@ author:
   employer         : "南京大学"
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            :"sophiedududu@163.com"
   researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         :"Sophie Yan"
   foursquare       :
   github           : "xuefei-yan"
   google_plus      :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "YanXueFei"
+  twitter          :
   vine             :
   weibo            : 
   xing             :
