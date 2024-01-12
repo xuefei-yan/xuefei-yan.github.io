@@ -1,11 +1,12 @@
-![image](https://github.com/xuefei-yan/xuefei-yan.github.io/assets/104076088/0ccac332-fb7f-4155-862e-70175afe06f7)---
-permalink: /en/
+---
+layout: archive
 title: "Xue-Fei Yan"
-excerpt: "About me"
+permalink: /en/
 author_profile: true
 ---
 
-<!--<img align="middle" src="/img/headers/hero.svg" width = 800px/>-->
+{% include base_path %}
+
 
 
 **Xue-Fei Yan** serves as a college lecturer in the Department of Communication. She is currently a second-year Ph.D. student in the [School of Journalism and Communication](https://jc.nju.edu.cn/), Nanjing University, under the supervision of Dr. Cheng-Jun Wang. She is also a member of [Computational Communication Collaboratory](https://computational-communication.com/) and the [Socrates Lab](https://github.com/socrateslab/). Her research interests include computational social science, time use research, computational narrative and causal inference. Her research has appeared in outlets such as the _Chinese Journal of Communication_.
