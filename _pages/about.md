@@ -34,6 +34,8 @@ redirect_from:
 3. 苏格拉底学园[豆瓣小组](https://www.douban.com/group/733982/)上线了！
 
 
+
 ![image](https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png)
+
 ✏️ [Edit this page](https://github.com/xuefei-yan/xuefei-yan.github.io/edit/gh-pages/_pages/about.md)
 
