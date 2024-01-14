@@ -10,7 +10,7 @@ redirect_from:
 
 <!--<img src="https://user-images.githubusercontent.com/104076088/203525465-d122cdbc-e97a-4b2d-91fc-6aa13b31c067.jpeg" align = "middle" width = "500px">-->
 
-晏雪菲，曾担任新媒体专业讲师，目前是南京大学传播学在读博士，导师[王成军](https://chengjunwang.com/)。她也是南京大学[计算传播实验中心](https://book.douban.com/subject/36017047/)成员。她致力于采用计算社会科学视角研究人类传播行为，包括时间使用、计算叙事和因果推断。目前的研究兴趣是通过各种计算方法（例如网络分析、文本挖掘、词嵌入模型、序列模型）来考察线上线下人类行为的规律和结果。研究成果发表在《Chinese Journal of Communicaiton》等期刊。
+晏雪菲，曾担任新媒体专业讲师，目前是南京大学计算传播学在读博士，导师[王成军](https://chengjunwang.com/)。她也是南京大学[计算传播实验中心](https://book.douban.com/subject/36017047/)成员。她致力于采用计算社会科学视角研究人类传播行为，包括时间使用、计算叙事和因果推断。目前的研究兴趣是通过各种计算方法（例如网络分析、文本挖掘、词嵌入模型、序列模型）来考察线上线下人类行为的规律和结果。研究成果发表在《Chinese Journal of Communicaiton》等期刊。
 
 
 ## 教育经历
