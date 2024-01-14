@@ -8,39 +8,10 @@ author_profile: true
 
 {% include base_path %}
 
-## 编委会
+# 公共服务
 
-- 加入[Humanities & Social Sciences Communications](https://www.nature.com/palcomms/)的编委会(Editorial Board，2022年9月-至今)
-- 加入了Frontiers in Physics期刊的[Social Physics编委会](https://www.frontiersin.org/journals/physics/sections/social-physics)，担任[评审编辑](https://loop.frontiersin.org/people/1978496/overview)（Review Editor，2022年8月-至今)
-- 担任《中国网络传播研究》编辑部主任 (2020年1月-至今)
+我担任了[Humanities & Social Sciences Communications](https://www.nature.com/palcomms/) 的审稿人。
 
-## 期刊审稿
-
-担任以下期刊的审稿人
-
-英文刊物
-- Internet Research
-- Information, Communication, and Society
-- International Journal of Public Opinion Research (IJPOR)
-- Computers in Human Behavior (CHB)
-- Journal of the Association for Information Science and Technology (JASIST)
-- Journal of Informetrics
-- Journal of Medical Internet Research (JMIR)
-- Journal of Computational Social Science
-- Communication Methods and Measures (CMM)
-- Communication and Public
-- Frontier in Physics
-- PloS ONE
-
-国际会议
-- The Annual Conference of International Communication Association (ICA).
-- International Conference on Computational Social Science (IC2S2)
-
-中文刊物
-- 《新闻与传播研究》
-- 《新闻大学》
-- 《新闻记者》
-- 《傳播與社會學刊》
 
 ## 第谷读书会
 
@@ -65,7 +36,7 @@ author_profile: true
 ![image](https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png)
 
 
-✏️ [Edit this page](https://github.com/SocratesClub/SocratesClub.github.io/edit/gh-pages/_pages/service.md)
+✏️ [Edit this page](https://github.com/xuefei-yan/xuefei-yan.github.io/edit/gh-pages/_pages/service.md)
 
 
 
