@@ -24,12 +24,12 @@ author_profile: true
 
 
 # Teaching Experience
-#### Lectorate
+### Lectorate
 **New Media Department**, Chongqing University of Education
 - 5 years of independent teaching experience, including courses of Communication, Introduction to Journalism, Social Science Research Methods, News Commentary.
 - Independently write teaching syllabus, teaching calendar, and teaching plan.
 
-#### Teaching Assistant
+### Teaching Assistant
 **Introduction to Computational Communication**, Nanjing University
 - Instructor: Dr. Cheng-Jun Wang
 - Mentored student class projects, managed class assignment, and grading on Teaching Cube
@@ -55,7 +55,7 @@ author_profile: true
 6. **Yan, X. F.**, & Wang, C. J.* (2020). With Greater Popularity Comes Less Responsibility: The Popularity Fallacy of Big Vs’ Public Participation on Sina Weibo. _The 70th Annual Conference of the International Communication Association_ (ICA). 21-25 May, 2020, Gold Coast, Australia (Virtual).
 
 # Grants
-#### External
+### External
 - National Science Foundation, ¥200,000, _Student Research Fellow_, 2022–2026
   Project title: _Computational Narrative Research on Chinese Stories and Voice in the Digital Media Era_ (PI: Cheng-Jun Wang)
 - Jiangsu Provincial Social Science Foundation, ¥50,000, _co-PI_, 2022-2024
@@ -69,7 +69,7 @@ author_profile: true
 - Chongqing University of Education Youth Research Grant, ¥10,000, _PI_, 2017-2020
   Project title: _Research on the Influence of Weibo Celebrities in Public Participation_
 
-#### Travel Grants
+### Travel Grants
 - The 73rd International Communication Association Annual Conference (ICA) CAT Travel Grant, 2023
 - The 70th International Communication Association Annual Conference (ICA) Hardship Fund Grant, 2020
 
