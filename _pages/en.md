@@ -15,10 +15,13 @@ author_profile: true
 # Education
 **Nanjing University**, 2022-now
 - Ph.D. student in Computational Communication; Supervisor: Dr. Cheng-Jun Wang
+  
 **Nanjing University**, 2014-2017
 - M.A. in Communication; Supervisor: Prof. Junfei Du
+  
 **Nankai University**, 2010-2014
 - B.A. in Radio and Television Journalism (graduated with honors)
+  
 **Keimyung University**, 2013
 - Exchange student in Broadcasting and Television
 
@@ -56,18 +59,23 @@ author_profile: true
 
 # Grants
 ### External
-- National Science Foundation, ¥200,000, _Student Research Fellow_, 2022–2026
-  Project title: _Computational Narrative Research on Chinese Stories and Voice in the Digital Media Era_ (PI: Cheng-Jun Wang)
-- Jiangsu Provincial Social Science Foundation, ¥50,000, _co-PI_, 2022-2024
-  Project title: _Research on Communication Governance in the VUCA Era_ (PI: Shuhan Chang)
-- Chongqing Municipal Education Commission Humanities and Social Sciences Research Project, ¥10,000, _co-PI_, 2022-2024
-  Project title: _Media Practice and Life Story Research of the “90s Generation” Youth_ (PI: Zhuyan Cai)
-- Chongqing Social Science Planning and Cultivation Project, ¥15,000, _co-PI_, 2020-2023
-  Project title: _Research on the Construction of “Chongqing Memory” in the New Media Era_ (PI: Zhuyan Cai)
-- Chongqing Municipal Education Commission Humanities and Social Sciences Research Project, ¥20,000, _co-PI_, 2020-2022
-  Project title: _Research on Political Identity and Media Guidance Strategies of College Students_ (PI: Xiaofang Yu)
-- Chongqing University of Education Youth Research Grant, ¥10,000, _PI_, 2017-2020
-  Project title: _Research on the Influence of Weibo Celebrities in Public Participation_
+**National Science Foundation**, ¥200,000, _Student Research Fellow_, 2022–2026
+- Project title: _Computational Narrative Research on Chinese Stories and Voice in the Digital Media Era_ (PI: Cheng-Jun Wang)
+  
+**Jiangsu Provincial Social Science Foundation**, ¥50,000, _co-PI_, 2022-2024
+- Project title: _Research on Communication Governance in the VUCA Era_ (PI: Shuhan Chang)
+
+**Chongqing Municipal Education Commission Humanities and Social Sciences Research Project**, ¥10,000, _co-PI_, 2022-2024
+- Project title: _Media Practice and Life Story Research of the “90s Generation” Youth_ (PI: Zhuyan Cai)
+
+**Chongqing Social Science Planning and Cultivation Project**, ¥15,000, _co-PI_, 2020-2023
+- Project title: _Research on the Construction of “Chongqing Memory” in the New Media Era_ (PI: Zhuyan Cai)
+
+**Chongqing Municipal Education Commission Humanities and Social Sciences Research Project**, ¥20,000, _co-PI_, 2020-2022
+- Project title: _Research on Political Identity and Media Guidance Strategies of College Students_ (PI: Xiaofang Yu)
+
+**Chongqing University of Education Youth Research Grant**, ¥10,000, _PI_, 2017-2020
+- Project title: _Research on the Influence of Weibo Celebrities in Public Participation_
 
 ### Travel Grants
 - The 73rd International Communication Association Annual Conference (ICA) CAT Travel Grant, 2023
