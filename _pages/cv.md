@@ -13,7 +13,7 @@ redirect_from:
 晏雪菲，曾担任新媒体专业讲师，目前是南京大学传播学在读博士，导师王成军。她也是南京大学计算传播实验中心成员。她致力于采用计算社会科学视角研究人类传播行为，包括时间使用、计算叙事和因果推断。目前的研究兴趣是通过各种计算方法（例如网络分析、文本挖掘、词嵌入模型、序列模型）来考察线上线下人类行为的规律和结果。研究成果发表在《Chinese Journal of Communicaiton》等期刊。
 
 
-# 教育经历
+## 教育经历
 **南京大学**，新闻传播学院，2022-至今
 - 计算传播学，博士研究生；导师：王成军
 - 计算传播实验中心
@@ -26,8 +26,9 @@ redirect_from:
 
 **启明大学**，新闻传播学院，2013
 - 广播电视学交换生
+
   
-# 教学经历
+## 教学经历
 ### 大学讲师
 **新媒体系**， 重庆第二师范学院，2017-2022
 - 5年教学经历，教授课程包括：传播学、新闻学概念、新闻与传播学研究方法、新闻评论
@@ -42,17 +43,20 @@ redirect_from:
 - 课程导师：马志浩
 - 指导学生课堂项目，管理在线问答和课堂作业。
 
-# 期刊论文
+
+## 期刊论文
 1. **Yan, X. F.**, & Wang, C. J.* (2021). With Greater Popularity Comes Less Responsibility: The Popularity Fallacy of Big Vs’ Public Participation on Sina Weibo. _Chinese Journal of Communication_, 14(4), 430-450 [doi: 0.1080/17544750.2021.1915833](http://dx.doi.org/10.1016/j.physa.2022.127357).
 
-# 研究进展
+
+## 研究进展
 
 1. **Yan, X. F.**, Lu, L., Chen, Z.*, & Wang, C. J.* Who Weaved My Behavior Cocoon? The Impact of ICT Use and on Daily Behaviors in an Accelerated Society (Under Review).
 2. Sun, Y., **Yan, X. F.**, Zhang, Y., Chen, Z.*, Wang, C. J.* From Imperialism to Cultural Imperialism: Localized Versus Globalized Advertisements of Imported Commodities in China (1932–1937) (Under Review).
 3. **Yan, X. F.**, Chen Z.*, & Wang, C. J.*, Behavior flow network: A new temporal perspective of human behaviors (Manuscript in preparation).
 4. **Yan, X. F.**, Shi, S., Wei, W., & Wang, C. J.* Understanding China's Real Estate Story: Exploring the Impact of Real Estate Narration on House Prices (In the process of data analysis).
 
-# 会议论文
+
+## 会议论文
 
 1. **Yan X.F.**, Shi S. Wei W., & Wang, C. J.* (2024) Discussing Housing Price Increases May Leads to a Decrease: How Real Estate Narratives Influence Housing prices in China. _The 74th Annual Conference of the International Communication Association_ (ICA), 20-24 June, 2024, Gold Coast, Australia.
 2. Zhang Y., Li Y., Zhang H., **Yan X. F.**, Wang C. J.* (2024) Uncovering the Cascading Structure of Bitcoin Narrative: The Role of Elites, Influencers, Media, and Public Emotion in Predicting Bitcoin Marketplace. _The 74th Annual Conference of the International Communication Association_ (ICA), 20-24 June, 2024, Gold Coast, Australia.
@@ -62,7 +66,7 @@ redirect_from:
 6. **Yan, X. F.**, & Wang, C. J.* (2020). With Greater Popularity Comes Less Responsibility: The Popularity Fallacy of Big Vs’ Public Participation on Sina Weibo. _The 70th Annual Conference of the International Communication Association_ (ICA). 21-25 May, 2020, Gold Coast, Australia (Virtual).
 
 
-# 基金
+## 基金
 
 ### 研究项目
 1. 数字媒体时代中国故事和中国声音的计算叙事研究，国家社会科学基金一般项目（项目编号：22BXW032，￥200000），2022-2025，参研
@@ -78,12 +82,12 @@ redirect_from:
 2. 第70届国际传播学年会（ICA）旅行补助金，2020年
 
 
-# 公共服务
+## 公共服务
 
 我担任了[Humanities & Social Sciences Communications](https://www.nature.com/palcomms/) 的审稿人。
 
 
-# 奖项荣誉
+## 奖项荣誉
 | 奖项名称                                                                                                  | 年份            |  
 | ----------------------------------------                                                                 | ------          | 
 | 2022年度计算传播年会优秀论文 (学生组三等奖)                                                                    | 2022            | 
@@ -99,7 +103,7 @@ redirect_from:
 | 信善奖学金                                                                                                 | 2011            |
 | 国家奖学金                                                                                                 | 2011            |
 
-# 职业经历
+## 职业经历
 **重庆第二师范学院**, 重庆, 中国 (2017–2022)
 - 大学讲师, 新媒体系
   
@@ -117,7 +121,7 @@ redirect_from:
 - **天津电视台**, 天津, 中国 (2013/7–2014/1)
   纪录片导演助理实习生, 科教频道	
 
-# 联系信息
+## 联系信息
 - 地址：南京大学新闻传播学院，计算传播学实验中心
   中国江苏省南京市栖霞区仙林大道163号，南京大学（仙林校区）紫金楼307 (邮编210023).
 - 邮箱: [sophiedududu@163.com](mailto:sophiedududu@163.com) 
