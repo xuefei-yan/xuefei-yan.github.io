@@ -1,4 +1,4 @@
-![image](https://github.com/xuefei-yan/xuefei-yan.github.io/assets/104076088/490cc7b4-8d6c-43b4-ac59-1638d1e5fa76)---
+---
 layout: archive
 title: "Xue-Fei Yan"
 permalink: /en/
