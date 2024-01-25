@@ -17,6 +17,7 @@ redirect_from:
 
 
 # Education
+
 **Nanjing University**, 2022-now
 - Ph.D. student in Computational Communication; Supervisor: Dr. Cheng-Jun Wang
   
@@ -31,12 +32,15 @@ redirect_from:
 
 
 # Teaching Experience
-### Lectorate
+
+## Lectorate
+
 **New Media Department**, Chongqing University of Education
 - 5 years of independent teaching experience, including courses of Communication, Introduction to Journalism, Social Science Research Methods, News Commentary.
 - Independently write teaching syllabus, teaching calendar, and teaching plan.
 
-### Teaching Assistant
+## Teaching Assistant
+
 **Introduction to Computational Communication**, Nanjing University
 - Instructor: Dr. Cheng-Jun Wang
 - Mentored student class projects, managed class assignment, and grading on Teaching Cube
@@ -45,15 +49,18 @@ redirect_from:
 - Mentored student class projects, managed online Q&A and class assignment.
 
 # Publications
+
 1. **Yan, X. F.**, & Wang, C. J.* (2021). With Greater Popularity Comes Less Responsibility: The Popularity Fallacy of Big Vs’ Public Participation on Sina Weibo. _Chinese Journal of Communication_, 14(4), 430-450 [doi: 0.1080/17544750.2021.1915833](http://dx.doi.org/10.1016/j.physa.2022.127357).
 
 # Selected Working Papers
+
 1. **Yan, X. F.**, Lu, L., Chen, Z.*, & Wang, C. J.* Who Weaved My Behavior Cocoon? The Impact of ICT Use and on Daily Behaviors in an Accelerated Society (Under Review).
 2. Sun, Y., **Yan, X. F.**, Zhang, Y., Chen, Z.*, Wang, C. J.* From Imperialism to Cultural Imperialism: Localized Versus Globalized Advertisements of Imported Commodities in China (1932–1937) (Under Review).
 3. **Yan, X. F.**, Chen Z.*, & Wang, C. J.*, Behavior flow network: A new temporal perspective of human behaviors (Manuscript in preparation).
 4. **Yan, X. F.**, Shi, S., Wei, W., & Wang, C. J.* Understanding China's Real Estate Story: Exploring the Impact of Real Estate Narration on House Prices (In the process of data analysis).
 
 # Conferences
+
 1. **Yan X.F.**, Shi S. Wei W., & Wang, C. J.* (2024) Discussing Housing Price Increases May Leads to a Decrease: How Real Estate Narratives Influence Housing prices in China. _The 74th Annual Conference of the International Communication Association_ (ICA), 20-24 June, 2024, Gold Coast, Australia.
 2. Zhang Y., Li Y., Zhang H., **Yan X. F.**, Wang C. J.* (2024) Uncovering the Cascading Structure of Bitcoin Narrative: The Role of Elites, Influencers, Media, and Public Emotion in Predicting Bitcoin Marketplace. _The 74th Annual Conference of the International Communication Association_ (ICA), 20-24 June, 2024, Gold Coast, Australia.
 3. **Yan, X. F.**, Lu, L., Chen, Z.*, & Wang, C. J.* (2023). Acceleration, Play, and Behavior Cocoon: Analyzing the Impact of ICT Use on Daily Behavior in the United Kingdom. _The 74th Annual Conference of the International Communication Association_ (ICA). 24-29 May, 2023, Toronto, Canada.
@@ -62,7 +69,9 @@ redirect_from:
 6. **Yan, X. F.**, & Wang, C. J.* (2020). With Greater Popularity Comes Less Responsibility: The Popularity Fallacy of Big Vs’ Public Participation on Sina Weibo. _The 70th Annual Conference of the International Communication Association_ (ICA). 21-25 May, 2020, Gold Coast, Australia (Virtual).
 
 # Grants
-### External
+
+## External
+
 **National Science Foundation**, ¥200,000, _Student Research Fellow_, 2022–2026
 - Project title: _Computational Narrative Research on Chinese Stories and Voice in the Digital Media Era_ (PI: Cheng-Jun Wang)
   
@@ -81,7 +90,8 @@ redirect_from:
 **Chongqing University of Education Youth Research Grant**, ¥10,000, _PI_, 2017-2020
 - Project title: _Research on the Influence of Weibo Celebrities in Public Participation_
 
-### Travel Grants
+## Travel Grants
+
 - The 73rd International Communication Association Annual Conference (ICA) CAT Travel Grant, 2023
 - The 70th International Communication Association Annual Conference (ICA) Hardship Fund Grant, 2020
 
@@ -92,6 +102,7 @@ I served as a reviewer for
 - [Humanities & Social Sciences Communications](https://www.nature.com/palcomms/)
 
 # Awards & Honors
+
 | Award Name                                                                                               | Year             |
 |----------------------------------------------------------------------------------------------------------|------------------| 
 | The 2022 Annual Conference of Computational Communication Excellent Paper                                | 2022             | 
@@ -107,6 +118,7 @@ I served as a reviewer for
 | National Scholarship                                                                                     | 2011             |
 
 # Professional Experience
+
 - **Chongqing University of Education**, Chongqing, China (2017–2022)
   Lectorate, New Media Department	
 - **Xinhua News Agency**, Chongqing, China (Sep–Oct, 2016)
@@ -121,11 +133,13 @@ I served as a reviewer for
   Documentary Director Assistant Intern, Science and Education Channel	
 
 # Skills
+
 - **Statistical Programming**: Python, R, Stata, SPSS
 - **Languages**: Mandarin (Native), English (CET-6: 533), Korean (TOPIK-I: 198)
 - **Applications**: Premiere Pro, Final Cut Pro, Axure RP
 
 # Contact Me
+
 <img width="801" alt="截屏2024-01-12 22 42 00" src="https://github.com/xuefei-yan/xuefei-yan.github.io/assets/104076088/f8cef18e-b23b-4908-bbd8-425c403bd6b5">
 
 - **Address**: School of Journalism and Communication, Nanjing University (Xianlin Campus), Nanjing, Jiangsu Province(210023).
