@@ -1,14 +1,11 @@
 ---
-layout: archive
+permalink: /
 title: "Xue-Fei Yan"
-permalink: /en/
+excerpt: "en"
 author_profile: true
 redirect_from: 
   - /en/
-  - /en.html/
 ---
-
-{% include base_path %}
 
 <!--<img src="https://user-images.githubusercontent.com/104076088/203525465-d122cdbc-e97a-4b2d-91fc-6aa13b31c067.jpeg" align = "middle" width = "500px">-->
 
