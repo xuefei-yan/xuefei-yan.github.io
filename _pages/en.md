@@ -89,8 +89,8 @@ I served as a reviewer for
 
 # Awards & Honors
 | Award Name                                                                                               | Year             |
-| ----------------------------------------                                                                 | ------           | 
-| The 2022 Annual Conference of Computational Communication Excellent Paper (Third Prize in Student Group) | 2022             | 
+|----------------------------------------------------------------------------------------------------------|------------------| 
+| The 2022 Annual Conference of Computational Communication Excellent Paper                                | 2022             | 
 | Chongqing University of Education Excellent Thesis Advisor Award                                         | 2021             | 
 | Nanjing University Academic Scholarship (Second Prize)                                                   | 2016, 2015       | 
 | Nanjing University Academic Scholarship (First Prize)                                                    | 2014             | 
