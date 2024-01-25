@@ -88,19 +88,19 @@ I served as a reviewer for
 - [Humanities & Social Sciences Communications](https://www.nature.com/palcomms/)
 
 # Awards & Honors
-| Award Name                                                                                               | Year            |
-| ----------------------------------------                                                                 | ------          | 
-| The 2022 Annual Conference of Computational Communication Excellent Paper (Third Prize in Student Group) | 2022            | 
-| Chongqing University of Education Excellent Thesis Advisor Award                                         | 2021            | 
-| Nanjing University Academic Scholarship (Second Prize)                                                   | 2016, 2015      | 
-| Nanjing University Academic Scholarship (First Prize)                                                    | 2014            | 
-| Nankai University Distinguished Graduate Student Award                                                   | 2014            | 
-| Nankai University Distinguished Students Award                                                           | 2013, 2012, 2011|
-| Wang Wentian Scholarship (Second Prize)                                                                  | 2013            |
-| Nankai University Excellent Student Leader Award                                                         | 2012, 2011      |
-| Nankai University Scholarship (First Prize)                                                              | 2012            |
-| Xinshan Scholarship                                                                                      | 2011            |
-| National Scholarship                                                                                     | 2011            |
+| Award Name                                                                                               | Year             |
+| ----------------------------------------                                                                 | ------           | 
+| The 2022 Annual Conference of Computational Communication Excellent Paper (Third Prize in Student Group) | 2022             | 
+| Chongqing University of Education Excellent Thesis Advisor Award                                         | 2021             | 
+| Nanjing University Academic Scholarship (Second Prize)                                                   | 2016, 2015       | 
+| Nanjing University Academic Scholarship (First Prize)                                                    | 2014             | 
+| Nankai University Distinguished Graduate Student Award                                                   | 2014             | 
+| Nankai University Distinguished Students Award                                                           | 2013, 2012, 2011 |
+| Wang Wentian Scholarship (Second Prize)                                                                  | 2013             |
+| Nankai University Excellent Student Leader Award                                                         | 2012, 2011       |
+| Nankai University Scholarship (First Prize)                                                              | 2012             |
+| Xinshan Scholarship                                                                                      | 2011             |
+| National Scholarship                                                                                     | 2011             |
 
 # Professional Experience
 - **Chongqing University of Education**, Chongqing, China (2017–2022)
