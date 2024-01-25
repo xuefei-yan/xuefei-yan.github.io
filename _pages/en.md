@@ -30,13 +30,13 @@ redirect_from:
 
 # Teaching Experience
 
-## Lectorate
+### Lectorate
 
 **New Media Department**, Chongqing University of Education
 - 5 years of independent teaching experience, including courses of Communication, Introduction to Journalism, Social Science Research Methods, News Commentary.
 - Independently write teaching syllabus, teaching calendar, and teaching plan.
 
-## Teaching Assistant
+### Teaching Assistant
 
 **Introduction to Computational Communication**, Nanjing University
 - Instructor: Dr. Cheng-Jun Wang
@@ -67,7 +67,7 @@ redirect_from:
 
 # Grants
 
-## External
+### External
 
 **National Science Foundation**, ¥200,000, _Student Research Fellow_, 2022–2026
 - Project title: _Computational Narrative Research on Chinese Stories and Voice in the Digital Media Era_ (PI: Cheng-Jun Wang)
@@ -87,7 +87,7 @@ redirect_from:
 **Chongqing University of Education Youth Research Grant**, ¥10,000, _PI_, 2017-2020
 - Project title: _Research on the Influence of Weibo Celebrities in Public Participation_
 
-## Travel Grants
+### Travel Grants
 
 - The 73rd International Communication Association Annual Conference (ICA) CAT Travel Grant, 2023
 - The 70th International Communication Association Annual Conference (ICA) Hardship Fund Grant, 2020
