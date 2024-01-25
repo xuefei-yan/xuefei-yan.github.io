@@ -130,7 +130,7 @@ I served as a reviewer for
 # Skills
 
 - **Statistical Programming**: Python, R, Stata, SPSS
-- **Languages**: Mandarin (Native), English (CET-6: 533), Korean (TOPIK-I: 198)
+- **Languages**: Mandarin (Native), English (PTE: 78; CET-6: 533), Korean (TOPIK-I: 198)
 - **Applications**: Premiere Pro, Final Cut Pro, Axure RP
 
 # Contact Me
