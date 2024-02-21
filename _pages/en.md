@@ -1,4 +1,4 @@
----
+![image](https://github.com/xuefei-yan/xuefei-yan.github.io/assets/104076088/b51cd67e-1315-44ea-92dd-85df8fb5b64d)![image](https://github.com/xuefei-yan/xuefei-yan.github.io/assets/104076088/dc4623d7-5ab7-4161-b73d-f590a96ea4f6)---
 permalink: /en/
 title: "Xue-Fei Yan"
 author_profile: true
@@ -100,6 +100,8 @@ I served as a reviewer for
 
 | Award Name                                                                                               | Year             |
 |----------------------------------------------------------------------------------------------------------|------------------| 
+| Nanjing University Doctoral Talent Scholarship (Second Prize)                                            | 2023             | 
+| Outstanding Graduate Student                                                                             | 2023             | 
 | The 2022 Annual Conference of Computational Communication Excellent Paper                                | 2022             | 
 | Chongqing University of Education Excellent Thesis Advisor Award                                         | 2021             | 
 | Nanjing University Academic Scholarship (Second Prize)                                                   | 2016, 2015       | 
