@@ -46,6 +46,9 @@ redirect_from:
 # Publications
 
 1. **Yan, X. F.**, & Wang, C. J.* (2021). With Greater Popularity Comes Less Responsibility: The Popularity Fallacy of Big Vs’ Public Participation on Sina Weibo. _Chinese Journal of Communication_, 14(4), 430-450 [doi: 0.1080/17544750.2021.1915833](http://dx.doi.org/10.1016/j.physa.2022.127357).
+2. Sun, Y., **Yan, X. F.**, Zhang, Y., Chen, Z.*, Wang, C. J.* Globalization in International Tensions: The Impact of Military Conflicts on Cultural Orientations of Multinational Corporations' Advertising in Modern China (1932-1937)
+. _Chinese Journal of Communication_. [In print]
+
 
 # Selected Working Papers
 
