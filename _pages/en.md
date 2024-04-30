@@ -53,9 +53,8 @@ redirect_from:
 # Selected Working Papers
 
 1. **Yan, X. F.**, Lu, L., Chen, Z.*, & Wang, C. J.* Who Weaved My Behavior Cocoon? The Impact of ICT Use and on Daily Behaviors in an Accelerated Society (Under Review).
-2. Sun, Y., **Yan, X. F.**, Zhang, Y., Chen, Z.*, Wang, C. J.* From Imperialism to Cultural Imperialism: Localized Versus Globalized Advertisements of Imported Commodities in China (1932–1937) (Under Review).
-3. **Yan, X. F.**, Chen Z.*, & Wang, C. J.*, Behavior flow network: A new temporal perspective of human behaviors (Manuscript in preparation).
-4. **Yan, X. F.**, Shi, S., Wei, W., & Wang, C. J.* Understanding China's Real Estate Story: Exploring the Impact of Real Estate Narration on House Prices (In the process of data analysis).
+2. **Yan, X. F.**, Chen Z.*, & Wang, C. J.*, Behavior flow network: A new temporal perspective of human behaviors (Manuscript in preparation).
+3. **Yan, X. F.**, Shi, S., Wei, W., & Wang, C. J.* Understanding China's Real Estate Story: Exploring the Impact of Real Estate Narration on House Prices (In the process of data analysis).
 
 # Conferences
 
