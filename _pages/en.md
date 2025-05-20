@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Xue-Fei Yan** serves as a college lecturer in the Department of Communication. She is currently a second-year Ph.D. student in the [School of Journalism and Communication](https://jc.nju.edu.cn/), Nanjing University, under the supervision of Dr. Cheng-Jun Wang. She is also a member of [Computational Communication Collaboratory](https://computational-communication.com/) and the [Socrates Lab](https://github.com/socrateslab/). Her research interests include computational social science, time use research, computational narrative and causal inference. Her research has appeared in outlets such as the _Chinese Journal of Communication_.
+**Xue-Fei Yan** serves as a college lecturer in the Department of Communication. She is currently a third-year Ph.D. student in the [School of Journalism and Communication](https://jc.nju.edu.cn/), Nanjing University, under the supervision of Dr. Cheng-Jun Wang. She is also a member of [Computational Communication Collaboratory](https://computational-communication.com/) and the [Socrates Lab](https://github.com/socrateslab/). Her research interests include computational social science, time use research, computational narrative and causal inference. Her research has appeared in outlets such as the _Chinese Journal of Communication_.
 
 
 # Education
@@ -139,7 +139,7 @@ I served as a reviewer for
 # Skills
 
 - **Statistical Programming**: Python, R, Stata, SPSS
-- **Languages**: Mandarin (Native), English (PTE: 78; CET-6: 533), Korean (TOPIK-I: 198)
+- **Languages**: Mandarin (Native), English (PTE: 83; CET-6: 533), Korean (TOPIK-I: 198)
 - **Applications**: Premiere Pro, Final Cut Pro, Axure RP
 
 # Contact Me
