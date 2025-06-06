@@ -64,7 +64,7 @@ redirect_from:
 
 # 会议论文
 
-1. **Yan, X. F.**, Zhang Y., Li Y., Wang C. J.* (2025). When Stories Move Markets? Unpacking Narrative Rationality and Emotion in Driving Bitcoin Attention in Online Interactive Environments. _南京大学跨学科论坛_, 5th June, 2025, 南京, 中国. (二等奖)
+1. **Yan, X. F.**, Zhang Y., Li Y., Wang C. J.* (2025). When Stories Move Markets? Unpacking Narrative Rationality and Emotion in Driving Bitcoin Attention in Online Interactive Environments. _南京大学博士生跨学科论坛_, 5th June, 2025, 南京, 中国. (二等奖)
 2. **Yan, X. F.**, Chen, J., Chen, Z., & Wang, C. J.* (2025). Is a Diverse and Different Life a Happier Life? Analyzing Digital Media's Impact on Subjective Well-being from Social Acceleration Perspective. _The 75th Annual Conference of the International Communication Association_ (ICA), 12-16 June, 2024, Denver, the United States.
 3. **Yan X.F.**, Shi S. Wei W., & Wang, C. J.* (2024) Discussing Housing Price Increases May Leads to a Decrease: How Real Estate Narratives Influence Housing prices in China. _The 74th Annual Conference of the International Communication Association_ (ICA), 20-24 June, 2024, Gold Coast, Australia.
 4. **Yan, X.F.**, Chen, J., Zhang, Y., Yan, L., & Wang, C. J.* (2024) Is Media More Beneficial for Common Life? Media, Behavioral Commonness, and Subjective Well-being. _IAMCR 2024_, 30 June-4 July, 2024, Christchurch, New Zealand.
