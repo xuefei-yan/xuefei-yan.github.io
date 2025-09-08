@@ -150,7 +150,7 @@ I served as a reviewer for
 <img width="801" alt="截屏2024-01-12 22 42 00" src="https://github.com/xuefei-yan/xuefei-yan.github.io/assets/104076088/f8cef18e-b23b-4908-bbd8-425c403bd6b5">
 
 - **Address**: School of Journalism and Communication, Nanjing University (Xianlin Campus), Nanjing, Jiangsu Province(210023).
-- **Email**: [sophiedududu@163.com](mailto:sophiedududu@163.com) 
+- **Email**: [xuefeiyan04@gmail.com](mailto:xuefeiyan04@gmail.com) 
 - **Website**: [https://xuefei-yan.com](https://xuefei-yan.github.io/en/)
 
 
