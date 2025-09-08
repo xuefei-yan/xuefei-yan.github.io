@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Xue-Fei Yan** serves as a college lecturer in the Department of Communication. She is currently a third-year Ph.D. student in the [School of Journalism and Communication](https://jc.nju.edu.cn/), Nanjing University, under the supervision of Dr. Cheng-Jun Wang. She is also a member of [Computational Communication Collaboratory](https://computational-communication.com/) and the [Socrates Lab](https://github.com/socrateslab/). Her research interests include computational social science, time use research, computational narrative and causal inference. Her research has appeared in outlets such as the _Chinese Journal of Communication_.
+**Xue-Fei Yan** serves as a college lecturer in the Department of Communication. She is currently a fourth-year Ph.D. student in the [School of Journalism and Communication](https://jc.nju.edu.cn/), Nanjing University, under the supervision of Dr. Cheng-Jun Wang. She is also a member of [Computational Communication Collaboratory](https://computational-communication.com/) and the [Socrates Lab](https://github.com/socrateslab/). Her research interests include computational social science, time use research, computational narrative and causal inference. Her research has appeared in outlets such as the _Chinese Journal of Communication_.
 
 
 # Education
@@ -39,6 +39,7 @@ redirect_from:
 **Introduction to Computational Communication**, Nanjing University
 - Instructor: Dr. Cheng-Jun Wang
 - Mentored student class projects, managed class assignment, and grading on Teaching Cube
+
 **Causal Inference in Social Sciences**, Nanjing University
 - Instructor: Dr. Zhihao Ma
 - Mentored student class projects, managed online Q&A and class assignment.
@@ -73,7 +74,7 @@ redirect_from:
 ### External
 
 **The Graduate Innovation Project “Excellent Cultivation Plan”**, ¥8,000, _PI_, 2024-2026
-- Project title: _The Temporal Structure of Digital Media Embedded in Daily Life from the Perspective of Social Acceleration_ (PI: Cheng-Jun Wang)
+- Project title: _The Temporal Structure of Digital Media Embedded in Daily Life from the Perspective of Social Acceleration_
   
 **National Science Foundation**, ¥200,000, _Student Research Fellow_, 2022–2026
 - Project title: _Computational Narrative Research on Chinese Stories and Voice in the Digital Media Era_ (PI: Cheng-Jun Wang)
