@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-晏雪菲，曾担任新媒体专业讲师，目前是南京大学传播学在读博士，导师王成军。她也是南京大学计算传播实验中心成员。她致力于采用计算社会科学视角研究人类传播行为，包括时间使用、计算叙事和因果推断。目前的研究兴趣是通过各种计算方法（例如网络分析、文本挖掘、词嵌入模型、序列模型）来考察线上线下人类行为的规律和结果。研究成果发表在《Chinese Journal of Communicaiton》等期刊。
+晏雪菲，曾担任新媒体专业讲师，目前是南京大学传播学在读博士，导师王成军。她也是南京大学计算传播实验中心成员。她致力于采用计算社会科学视角研究人类传播行为，包括时间使用、计算叙事和因果推断。目前的研究兴趣是通过各种计算方法（例如网络分析、文本挖掘、词嵌入模型、序列模型）来考察线上线下人类行为的规律和结果。研究成果发表在《Chinese Journal of Communicaiton》《Communications: The European Journal of Communication Research》等期刊。
 
 
 # 教育经历
@@ -50,16 +50,17 @@ redirect_from:
 
 # 期刊论文
 
-1. Sun, Y., **Yan, X. F.**, Zhang, Y., Chen, Z.*, Wang, C. J.* (2024).Globalization in International Tensions: The Impact of Military Conflicts on Cultural Orientations of Multinational Corporations' Advertising in Modern China (1932-1937)
+1. **Yan, X. F.**, Chen, Z., Lu, L. & Wang, C. J. (2025). Who weaved my behavior cocoon? The impact of digital media use on daily behaviors in an accelerated society. _Communications: The European Journal of Communication Research_. [doi: 10.1515/commun-2024-0160](https://doi.org/10.1515/commun-2024-0160).
+2. Sun, Y., **Yan, X. F.**, Zhang, Y., Chen, Z.*, Wang, C. J.* (2024).Globalization in International Tensions: The Impact of Military Conflicts on Cultural Orientations of Multinational Corporations' Advertising in Modern China (1932-1937)
 . _Chinese Journal of Communication_, 17(4), 452-470 [doi: 10.1080/17544750.2024.2354698](http://doi.org/10.1080/17544750.2024.2354698). 
-2. **Yan, X. F.**, & Wang, C. J.* (2021). With Greater Popularity Comes Less Responsibility: The Popularity Fallacy of Big Vs’ Public Participation on Sina Weibo. _Chinese Journal of Communication_, 14(4), 430-450 [doi: 0.1080/17544750.2021.1915833](http://dx.doi.org/10.1016/j.physa.2022.127357).
+3. **Yan, X. F.**, & Wang, C. J.* (2021). With Greater Popularity Comes Less Responsibility: The Popularity Fallacy of Big Vs’ Public Participation on Sina Weibo. _Chinese Journal of Communication_, 14(4), 430-450 [doi: 0.1080/17544750.2021.1915833](http://dx.doi.org/10.1016/j.physa.2022.127357).
 
 
 # 研究进展
 
-1. **Yan, X. F.**, Lu, L., Chen, Z.*, & Wang, C. J.* Who Weaved My Behavior Cocoon? The Impact of ICT Use and on Daily Behaviors in an Accelerated Society (Under Review).
-2. **Yan, X. F.**, Ma Z., Zhang Y. & Wang, C. J.*, Shut Your Eyes in the Dark! How Bedtime Media Use Affects Sleep Delay and Increases Anxiety among Young Adults (Under Review).
-3. **Yan, X. F.**, Chen, J., Chen, Z., & Wang, C. J.* Is a Diverse and Different Life a Happier Life? Analyzing Digital Media's Impact on Subjective Well-being from Social Acceleration Perspective (Under Review).
+1. **Yan, X. F.**, Ma Z., Zhang Y. & Wang, C. J.*, Shut Your Eyes in the Dark! How Bedtime Media Use Affects Sleep Delay and Increases Anxiety among Young Adults (Under Review).
+2. **Yan, X. F.**, Chen, J., Chen, Z., & Wang, C. J.* Is a Diverse and Different Life a Happier Life? Analyzing Digital Media's Impact on Subjective Well-being from Social Acceleration Perspective (Under Review).
+3. **Yan, X. F.**, Ma Z.*, Assessing the SciPop Scale across 68 Countries/Regions: Testing Measurement Invariance and Alignment in Science-Related Populist Attitudes (Under Review)
 
 
 # 会议论文
@@ -147,7 +148,7 @@ redirect_from:
 
 - 地址：南京大学新闻传播学院，计算传播学实验中心
   中国江苏省南京市栖霞区仙林大道163号，南京大学（仙林校区）紫金楼307 (邮编210023).
-- 邮箱: [sophiedududu@163.com](mailto:sophiedududu@163.com) 
+- 邮箱: [xuefeiyan04@gmail.com](mailto:xuefeiyan04@gmail.com) 
 - 网站: [https://xuefei-yan.com](https://xuefei-yan.github.io/en/)
 
 <br>
