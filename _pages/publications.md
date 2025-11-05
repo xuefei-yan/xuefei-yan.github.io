@@ -7,15 +7,16 @@ author_profile: true
 
 
 # 期刊论文
-1. Sun, Y., **Yan, X. F.**, Zhang, Y., Chen, Z.*, Wang, C. J.* (2024).Globalization in International Tensions: The Impact of Military Conflicts on Cultural Orientations of Multinational Corporations' Advertising in Modern China (1932-1937)
+1. **Yan, X. F.**, Chen, Z., Lu, L. & Wang, C. J. (2025). Who weaved my behavior cocoon? The impact of digital media use on daily behaviors in an accelerated society. _Communications: The European Journal of Communication Research_. [doi: 10.1515/commun-2024-0160](https://doi.org/10.1515/commun-2024-0160).
+2. Sun, Y., **Yan, X. F.**, Zhang, Y., Chen, Z.*, Wang, C. J.* (2024).Globalization in International Tensions: The Impact of Military Conflicts on Cultural Orientations of Multinational Corporations' Advertising in Modern China (1932-1937)
 . _Chinese Journal of Communication_, 17(4), 452-470 [doi: 10.1080/17544750.2024.2354698](http://doi.org/10.1080/17544750.2024.2354698).
-2. **Yan, X. F.**, & Wang, C. J.* (2021). With Greater Popularity Comes Less Responsibility: The Popularity Fallacy of Big Vs’ Public Participation on Sina Weibo. _Chinese Journal of Communication_, 14(4), 430-450 [doi: 0.1080/17544750.2021.1915833](http://dx.doi.org/10.1016/j.physa.2022.127357).
+3. **Yan, X. F.**, & Wang, C. J.* (2021). With Greater Popularity Comes Less Responsibility: The Popularity Fallacy of Big Vs’ Public Participation on Sina Weibo. _Chinese Journal of Communication_, 14(4), 430-450 [doi: 0.1080/17544750.2021.1915833](http://dx.doi.org/10.1016/j.physa.2022.127357).
 
 # 研究进展
 
-1. **Yan, X. F.**, Lu, L., Chen, Z.*, & Wang, C. J.* Who Weaved My Behavior Cocoon? The Impact of ICT Use and on Daily Behaviors in an Accelerated Society (Under Review).
-2. **Yan, X. F.**, Ma Z., Zhang Y. & Wang, C. J.*, Shut Your Eyes in the Dark! How Bedtime Media Use Affects Sleep Delay and Increases Anxiety among Young Adults (Under Review).
-3. **Yan, X. F.**, Chen, J., Chen, Z., & Wang, C. J.* Is a Diverse and Different Life a Happier Life? Analyzing Digital Media's Impact on Subjective Well-being from Social Acceleration Perspective (Under Review).
+1. **Yan, X. F.**, Ma Z., Zhang Y. & Wang, C. J.*, Shut Your Eyes in the Dark! How Bedtime Media Use Affects Sleep Delay and Increases Anxiety among Young Adults (Under Review).
+2. **Yan, X. F.**, Chen, J., Chen, Z., & Wang, C. J.* Is a Diverse and Different Life a Happier Life? Analyzing Digital Media's Impact on Subjective Well-being from Social Acceleration Perspective (Under Review).
+3. **Yan, X. F.**, Ma Z.*, Assessing the SciPop Scale across 68 Countries/Regions: Testing Measurement Invariance and Alignment in Science-Related Populist Attitudes (Under Review)
 
 # 会议论文
 
