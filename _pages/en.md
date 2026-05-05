@@ -21,17 +21,15 @@ redirect_from:
   
 **Nankai University**, 2010-2014
 - B.A. in Radio and Television Journalism (graduated with honors)
-  
-**Keimyung University**, 2013
-- Exchange student in Broadcasting and Television
 
 
 # Teaching Experience
 
-### Lectorate
+### University Lecturer
 
 **New Media Department**, Chongqing University of Education
 - 5 years of independent teaching experience, including courses of Communication, Introduction to Journalism, Social Science Research Methods, News Commentary.
+- Supervised syudents' undergraduate dissertation.
 - Independently write teaching syllabus, teaching calendar, and teaching plan.
 
 ### Teaching Assistant
@@ -128,7 +126,7 @@ I served as a reviewer for
 # Professional Experience
 
 - **Chongqing University of Education**, Chongqing, China (2017–2022)
-  Lectorate, New Media Department	
+  University Lecturer, New Media Department	
 - **Xinhua News Agency**, Chongqing, China (Sep–Oct, 2016)
   Journalist Intern, Economic News Department	
 - **NetEase, Inc.**, Hangzhou, China (Jun–Sep, 2016)
