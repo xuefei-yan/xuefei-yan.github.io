@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Xue-Fei Yan** serves as a college lecturer in the Department of Communication. She is currently a fourth-year Ph.D. student in the [School of Journalism and Communication](https://jc.nju.edu.cn/), Nanjing University, under the supervision of Dr. Cheng-Jun Wang. She is also a member of [Computational Communication Collaboratory](https://computational-communication.com/) and the [Socrates Lab](https://github.com/socrateslab/). Her research interests include computational social science, time use research, computational narrative and causal inference. Her research has appeared in outlets such as the _Chinese Journal of Communication_, _Communications: The European Journal of Communication Research_.
+**Xue-Fei Yan** serves as a university lecturer in the Department of Communication. She is currently a fourth-year Ph.D. student in the [School of Journalism and Communication](https://jc.nju.edu.cn/), Nanjing University, under the supervision of Dr. Cheng-Jun Wang. She is also a member of [Computational Communication Collaboratory](https://computational-communication.com/) and the [Socrates Lab](https://github.com/socrateslab/). Her research interests include computational social science, time use research, computational narrative and causal inference. Her research has appeared in outlets such as the _Chinese Journal of Communication_, _Communications: The European Journal of Communication Research_.
 
 
 # Education
