@@ -44,17 +44,17 @@ redirect_from:
 
 # Publications
 
-1. **Yan, X. F.**, Ma, Z., Zhang, Y., Zhou, Y. X. & Wang, C. J.* (2026), Shut Your Eyes in the Dark! Differential Effects of Pre-Bedtime and Pre-Shuteye Media Use on Sleep Delay and Anxiety. _Health Communications_. [doi: 10.1080/10410236.2026.2724342](https://doi.org/10.1080/10410236.2026.2724342).
-2. **Yan, X. F.**, Chen, Z., Lu, L. & Wang, C. J. (2026). Who weaved my behavior cocoon? The impact of digital media use on daily behaviors in an accelerated society. _Communications: The European Journal of Communication Research_, 51(2), 495-527 [doi: 10.1515/commun-2024-0160](https://doi.org/10.1515/commun-2024-0160).
-3. Sun, Y., **Yan, X. F.**, Zhang, Y., Chen, Z.*, Wang, C. J.* (2024).Globalization in International Tensions: The Impact of Military Conflicts on Cultural Orientations of Multinational Corporations' Advertising in Modern China (1932-1937)
+1. **Yan, X.-F.**, & Ma, Z. (2026). Revisiting the SciPop Scale: Measurement alignment, scoring rules, and cross-context comparability. Political Psychology, 47, e70191. https://doi.org/10.1111/pops.70191
+2. **Yan, X. F.**, Ma, Z., Zhang, Y., Zhou, Y. X. & Wang, C. J.* (2026), Shut Your Eyes in the Dark! Differential Effects of Pre-Bedtime and Pre-Shuteye Media Use on Sleep Delay and Anxiety. _Health Communications_. [doi: 10.1080/10410236.2026.2724342](https://doi.org/10.1080/10410236.2026.2724342).
+3. **Yan, X. F.**, Chen, Z., Lu, L. & Wang, C. J. (2026). Who weaved my behavior cocoon? The impact of digital media use on daily behaviors in an accelerated society. _Communications: The European Journal of Communication Research_, 51(2), 495-527 [doi: 10.1515/commun-2024-0160](https://doi.org/10.1515/commun-2024-0160).
+4. Sun, Y., **Yan, X. F.**, Zhang, Y., Chen, Z.*, Wang, C. J.* (2024).Globalization in International Tensions: The Impact of Military Conflicts on Cultural Orientations of Multinational Corporations' Advertising in Modern China (1932-1937)
 . _Chinese Journal of Communication_, 17(4), 452-470 [doi: 10.1080/17544750.2024.2354698](http://doi.org/10.1080/17544750.2024.2354698).
-4. **Yan, X. F.**, & Wang, C. J.* (2021). With Greater Popularity Comes Less Responsibility: The Popularity Fallacy of Big Vs’ Public Participation on Sina Weibo. _Chinese Journal of Communication_, 14(4), 430-450 [doi: 0.1080/17544750.2021.1915833](http://dx.doi.org/10.1016/j.physa.2022.127357).
+5. **Yan, X. F.**, & Wang, C. J.* (2021). With Greater Popularity Comes Less Responsibility: The Popularity Fallacy of Big Vs’ Public Participation on Sina Weibo. _Chinese Journal of Communication_, 14(4), 430-450 [doi: 0.1080/17544750.2021.1915833](http://dx.doi.org/10.1016/j.physa.2022.127357).
 
 
 # Selected Working Papers
 
 1. **Yan, X. F.**, Chen, J., Chen, Z., & Wang, C. J.* Is a Diverse and Different Life a Happier Life? Analyzing Digital Media's Impact on Subjective Well-being from Social Acceleration Perspective (Under Review).
-2. **Yan, X. F.**, Ma Z.*, Assessing the SciPop Scale across 68 Countries/Regions: Testing Measurement Invariance and Alignment in Science-Related Populist Attitudes (Under Review)
 
 # Conferences
 
