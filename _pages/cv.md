@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-晏雪菲，曾担任新媒体专业讲师，目前是南京大学传播学在读博士，导师王成军。她也是南京大学计算传播实验中心成员。她致力于采用计算社会科学视角研究人类传播行为，包括时间使用、计算叙事和因果推断。目前的研究兴趣是通过各种计算方法（例如网络分析、文本挖掘、词嵌入模型、序列模型）来考察线上线下人类行为的规律和结果。研究成果发表在《Health Communication》《Chinese Journal of Communicaiton》《Communications: The European Journal of Communication Research》等期刊。
+晏雪菲，曾担任新媒体专业讲师，目前是南京大学传播学在读博士，导师王成军。她也是南京大学计算传播实验中心成员。她致力于采用计算社会科学视角研究人类传播行为，包括时间使用、计算叙事和因果推断。目前的研究兴趣是通过各种计算方法（例如网络分析、文本挖掘、词嵌入模型、序列模型）来考察线上线下人类行为的规律和结果。研究成果发表在《Political Psychology》《Health Communication》《Chinese Journal of Communicaiton》《Communications: The European Journal of Communication Research》等期刊。
 
 
 # 教育经历
@@ -50,7 +50,7 @@ redirect_from:
 
 # 期刊论文
 
-1. **Yan, X.-F.**, & Ma, Z. (2026). Revisiting the SciPop Scale: Measurement alignment, scoring rules, and cross-context comparability. Political Psychology, 47, e70191. https://doi.org/10.1111/pops.70191
+1. **Yan, X.-F.**, & Ma, Z. (2026). Revisiting the SciPop Scale: Measurement alignment, scoring rules, and cross-context comparability. _Political Psychology_, 47, e70191. [doi: 10.1111/pops.70191](https://doi.org/10.1111/pops.70191).
 2. **Yan, X. F.**, Ma, Z., Zhang, Y., Zhou, Y. X. & Wang, C. J.* (2026), Shut Your Eyes in the Dark! Differential Effects of Pre-Bedtime and Pre-Shuteye Media Use on Sleep Delay and Anxiety. _Health Communications_. [doi: 10.1080/10410236.2026.2724342](https://doi.org/10.1080/10410236.2026.2724342).
 3. **Yan, X. F.**, Chen, Z., Lu, L. & Wang, C. J. (2026). Who weaved my behavior cocoon? The impact of digital media use on daily behaviors in an accelerated society. _Communications: The European Journal of Communication Research_, 51(2), 495-527 [doi: 10.1515/commun-2024-0160](https://doi.org/10.1515/commun-2024-0160).
 4. Sun, Y., **Yan, X. F.**, Zhang, Y., Chen, Z.*, Wang, C. J.* (2024).Globalization in International Tensions: The Impact of Military Conflicts on Cultural Orientations of Multinational Corporations' Advertising in Modern China (1932-1937)
